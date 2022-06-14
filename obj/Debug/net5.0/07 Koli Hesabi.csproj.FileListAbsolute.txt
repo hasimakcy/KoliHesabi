@@ -1,0 +1,16 @@
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Koli Hesabi\bin\Debug\net5.0\07 Koli Hesabi.exe
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Koli Hesabi\bin\Debug\net5.0\07 Koli Hesabi.deps.json
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Koli Hesabi\bin\Debug\net5.0\07 Koli Hesabi.runtimeconfig.json
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Koli Hesabi\bin\Debug\net5.0\07 Koli Hesabi.runtimeconfig.dev.json
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Koli Hesabi\bin\Debug\net5.0\07 Koli Hesabi.dll
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Koli Hesabi\bin\Debug\net5.0\ref\07 Koli Hesabi.dll
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Koli Hesabi\bin\Debug\net5.0\07 Koli Hesabi.pdb
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Koli Hesabi\obj\Debug\net5.0\07 Koli Hesabi.csproj.AssemblyReference.cache
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Koli Hesabi\obj\Debug\net5.0\07 Koli Hesabi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Koli Hesabi\obj\Debug\net5.0\07 Koli Hesabi.AssemblyInfoInputs.cache
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Koli Hesabi\obj\Debug\net5.0\07 Koli Hesabi.AssemblyInfo.cs
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Koli Hesabi\obj\Debug\net5.0\07 Koli Hesabi.csproj.CoreCompileInputs.cache
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Koli Hesabi\obj\Debug\net5.0\07 Koli Hesabi.dll
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Koli Hesabi\obj\Debug\net5.0\ref\07 Koli Hesabi.dll
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Koli Hesabi\obj\Debug\net5.0\07 Koli Hesabi.pdb
+C:\Users\Ercan Bozkurt\source\repos\YAZILIM UZMANLIGI\Koli Hesabi\obj\Debug\net5.0\07 Koli Hesabi.genruntimeconfig.cache
